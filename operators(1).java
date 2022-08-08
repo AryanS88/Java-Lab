@@ -56,7 +56,13 @@ import java.util.*;
       System.out.println("c^=2 = "+c); 
       
       c|=2;
-      System.out.println("c|=2 = "+c); 
+      System.out.println("c|=2 = "+c);
+     
+      a=10;
+      c=15;
+      
+      c%=2;
+      System.out.println("c%=2 = "+c); 
     }
   }
   
