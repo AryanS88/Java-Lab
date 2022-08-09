@@ -10,5 +10,6 @@ public class Factorial{
         f=f*i;
         }
         System.out.print(f);
+        //output: The factorial of 5 is 120
     }
 }
