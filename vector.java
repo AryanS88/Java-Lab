@@ -62,7 +62,26 @@ public class Main {
 
         if(v2.isEmpty())
             System.out.println("the vector v2 is empty");
+/*
+output:
+vector is [Many, people, think, Java, and, Javascript, are, related]
+the cloned vector is [Many, people, think, Java, and, Javascript, are, related]
+JavaScript exists
+The default capacity of v2  is 10
+The new capacity of v2 is 25
+The  capacity of v2 is 8
+the element at index 5 of v1 is Javascript
+the  index  of javascript in v1 is 4
+the last index of related in v2 is 7
+first element of vector v1 is: people
+the string equivalent of vector ve is [Many, people, think, Java, and, Javascript, are, related]
+the vector after removal of index 7 is [Many, people, think, Java, and, Javascript, are]
+the vector v2 after clearing is :[]
+the vector v2 is empty
 
+
+
+*/
 
     }
 }
